@@ -10,19 +10,14 @@
 // }
 
 
+$dark-blue:#001524;
+$medium-blue:#123c60;
+$light-blue:#007b9a;
+$yellow:#fdc200;
+$red:#ca4d36;
 
 @import "fonts.scss";
 @import "reset.scss";
 @import "styles.scss";
 @import "layouts/header.scss";
 @import "layouts/footer.scss";
-@import "components/make-request/make-request";
-@import "components/insum/insum.scss";
-@import "components/contacts/contacts.scss";
-@import "pages/home.scss";
-@import "pages/news.scss";
-@import "pages/projects.scss";
-@import "pages/contacts.scss";
-@import "pages/about.scss";
-@import "pages/single-new.scss";
-@import "pages/single-project.scss";
